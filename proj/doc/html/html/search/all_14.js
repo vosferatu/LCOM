@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['v_5fres',['v_res',['../graphics_8c.html#a5bda1b499253a8fbf3cab646f8760391',1,'graphics.c']]],
+  ['vbe',['vbe',['../group__vbe.html',1,'']]],
+  ['vbe_2ec',['vbe.c',['../vbe_8c.html',1,'']]],
+  ['vbe_2ed',['vbe.d',['../vbe_8d.html',1,'']]],
+  ['vbe_2eh',['vbe.h',['../vbe_8h.html',1,'']]],
+  ['vbe_5fcall_5ffailed',['VBE_CALL_FAILED',['../group__vbe.html#ga058f6ee680b9597018d4b1fefd3a9537',1,'vbe.h']]],
+  ['vbe_5fctrl_5finfo',['VBE_CTRL_INFO',['../group__vbe.html#gafb1e8271bfbb5bafa73a56b0611c0874',1,'vbe.h']]],
+  ['vbe_5fgame_5fmode',['VBE_GAME_MODE',['../group__vbe.html#ga4bd01ba99caed1f376eda774e290eba3',1,'vbe.h']]],
+  ['vbe_5fget_5fmode_5finfo',['vbe_get_mode_info',['../group__vbe.html#ga4ef3234e41f2050bc094a22049b69e45',1,'vbe_get_mode_info(unsigned short mode, vbe_mode_info_t *vmi_p):&#160;vbe.c'],['../group__vbe.html#ga4ef3234e41f2050bc094a22049b69e45',1,'vbe_get_mode_info(unsigned short mode, vbe_mode_info_t *vmi_p):&#160;vbe.c']]],
+  ['vbe_5finvalid_5fmode',['VBE_INVALID_MODE',['../group__vbe.html#gaa47cbaa55e44e6c5e40e3ed311eb72c9',1,'vbe.h']]],
+  ['vbe_5fmode_5finfo',['VBE_MODE_INFO',['../group__vbe.html#ga2ecbf8f92f9322fedec91461747c4843',1,'vbe.h']]],
+  ['vbe_5fset_5fmode',['VBE_SET_MODE',['../group__vbe.html#ga02477c4996ff058aee590b54f2146eb5',1,'vbe.h']]],
+  ['vbe_5funsupported',['VBE_UNSUPPORTED',['../group__vbe.html#gaf970d292bc3f1669be2c3f8adc6b1abb',1,'vbe.h']]],
+  ['vg_5fexit',['vg_exit',['../group__graphics.html#ga42f593e6656f1a978315aff02b1bcebf',1,'vg_exit():&#160;graphics.c'],['../group__graphics.html#ga42f593e6656f1a978315aff02b1bcebf',1,'vg_exit(void):&#160;graphics.c']]],
+  ['vg_5finit',['vg_init',['../group__graphics.html#gacef21667c79365d57a084bed994c2189',1,'vg_init(unsigned short mode):&#160;graphics.c'],['../group__graphics.html#gacef21667c79365d57a084bed994c2189',1,'vg_init(unsigned short mode):&#160;graphics.c']]],
+  ['vg_5fline',['vg_line',['../group__graphics.html#ga6e53d4eb63bda8743af0ba2dd5745e26',1,'vg_line(unsigned short xi, unsigned short yi, unsigned short xf, unsigned short yf, unsigned long color):&#160;graphics.c'],['../group__graphics.html#ga6e53d4eb63bda8743af0ba2dd5745e26',1,'vg_line(unsigned short xi, unsigned short yi, unsigned short xf, unsigned short yf, unsigned long color):&#160;graphics.c']]],
+  ['vg_5fsquare',['vg_square',['../group__graphics.html#ga2b59419c632b0c7573e040601e347a40',1,'vg_square(unsigned short x, unsigned short y, unsigned short size, unsigned long color):&#160;graphics.c'],['../group__graphics.html#ga2b59419c632b0c7573e040601e347a40',1,'vg_square(unsigned short x, unsigned short y, unsigned short size, unsigned long color):&#160;graphics.c']]],
+  ['video_5fcard',['VIDEO_CARD',['../group__vbe.html#ga6492b88b080756a7c3ffab3f391223fa',1,'vbe.h']]],
+  ['video_5fmem',['video_mem',['../graphics_8c.html#a93a24e067b9083bed6fb5c0336fd7a01',1,'graphics.c']]],
+  ['video_5fmode_5fend',['VIDEO_MODE_END',['../group__vbe.html#ga31c4f01ef75778f174c6d73864661fe4',1,'vbe.h']]],
+  ['virtual',['virtual',['../group__lmlib.html#ga4de93144fb3ffbceb9bd1f3009d6d98c',1,'mmap_t']]],
+  ['vx',['vx',['../structBullet.html#a170bbda457756ece44f05acf89275bd3',1,'Bullet']]],
+  ['vy',['vy',['../structBullet.html#a84bd01af7de79adef538ce4d70c3fa3a',1,'Bullet::vy()'],['../structShield.html#ad982eb30f03b5b486bcc495f8ec5368d',1,'Shield::vy()']]]
+];

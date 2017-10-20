@@ -1,0 +1,5 @@
+<map id="MainMenuState" name="MainMenuState">
+<area shape="rect" id="node2" href="$structRectangle.html" title="Rectangle" alt="" coords="5,95,87,121"/>
+<area shape="rect" id="node3" href="$structBitmap.html" title="Represents a Bitmap. " alt="" coords="131,95,193,121"/>
+<area shape="rect" id="node4" href="$structBitmapInfoHeader.html" title="BitmapInfoHeader" alt="" coords="99,5,225,32"/>
+</map>

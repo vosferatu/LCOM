@@ -1,0 +1,4 @@
+<map id="newMainMenuState" name="newMainMenuState">
+<area shape="rect" id="node2" href="$group__Bitmap.html#ga3506880ffd407c36eb8aaddd2c1606d2" title="Loads a bmp image ; allocates it. " alt="" coords="200,5,287,32"/>
+<area shape="rect" id="node3" href="$group__Rectangle.html#ga01c9bc27c7b68eae46b1b6556fd3ceab" title="Creates a new rectangle, for the specified coordinates; allocates it. " alt="" coords="191,56,296,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="newCowboy" name="newCowboy">
+<area shape="rect" id="node2" href="$group__Bitmap.html#ga3506880ffd407c36eb8aaddd2c1606d2" title="Loads a bmp image ; allocates it. " alt="" coords="148,5,235,32"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga10e416c59639a7f6b6f9f8f020fdb8d0" title="returns the value set in vg_init " alt="" coords="155,56,227,83"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga1c1b9a9c811575beb06fc355241ef17d" title="returns the value set in vg_init " alt="" coords="155,107,227,133"/>
+</map>

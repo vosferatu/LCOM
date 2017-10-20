@@ -1,0 +1,7 @@
+<map id="drawShield" name="drawShield">
+<area shape="rect" id="node2" href="$group__Bitmap.html#gaa38f17545344b2f97bf82596f2d4b64a" title="Draws an unscaled, unrotated bitmap at the given position without background color &#45;&gt; full rgb GREEN..." alt="" coords="140,81,239,108"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga10e416c59639a7f6b6f9f8f020fdb8d0" title="returns the value set in vg_init " alt="" coords="314,5,386,32"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga1c1b9a9c811575beb06fc355241ef17d" title="returns the value set in vg_init " alt="" coords="314,56,386,83"/>
+<area shape="rect" id="node5" href="$group__graphics.html#ga782aabcc7282f096914532435718e70e" title="returns the value set in vg_init " alt="" coords="291,107,409,133"/>
+<area shape="rect" id="node6" href="$group__graphics.html#ga0823d182cf2b320e5f344bdc420a02d0" title="gets the double buffer " alt="" coords="287,157,413,184"/>
+</map>

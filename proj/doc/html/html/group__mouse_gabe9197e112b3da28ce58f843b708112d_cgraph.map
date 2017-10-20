@@ -1,0 +1,5 @@
+<map id="enableMouse" name="enableMouse">
+<area shape="rect" id="node2" href="$group__mouse.html#gaaae2252a60bc7a6693b297148766bda3" title="sends command to the mouse until successful (ACK received) " alt="" coords="152,31,271,57"/>
+<area shape="rect" id="node3" href="$group__mouse.html#ga2dad64bf781e74e7fd8f640629db6649" title="writes a command to the mouse " alt="" coords="319,5,415,32"/>
+<area shape="rect" id="node4" href="$group__mouse.html#gac1546b2ac6f3f9a905b1349475f8af9d" title="reads data from output buffer " alt="" coords="320,56,413,83"/>
+</map>

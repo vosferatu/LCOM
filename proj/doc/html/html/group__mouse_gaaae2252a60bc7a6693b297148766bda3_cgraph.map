@@ -1,0 +1,4 @@
+<map id="mouse_interface" name="mouse_interface">
+<area shape="rect" id="node2" href="$group__mouse.html#ga2dad64bf781e74e7fd8f640629db6649" title="writes a command to the mouse " alt="" coords="172,5,268,32"/>
+<area shape="rect" id="node3" href="$group__mouse.html#gac1546b2ac6f3f9a905b1349475f8af9d" title="reads data from output buffer " alt="" coords="173,56,267,83"/>
+</map>

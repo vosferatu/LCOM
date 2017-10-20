@@ -1,0 +1,6 @@
+<map id="rtc_int_handler" name="rtc_int_handler">
+<area shape="rect" id="node2" href="$group__rtc.html#ga36677c12789d16e241ce4f0c689e33cd" title="transform bcd number to a binary " alt="" coords="160,5,255,32"/>
+<area shape="rect" id="node3" href="$group__rtc.html#ga3e2f07ac01d26fdb892c5348a8d23804" title="retrieves date pointer " alt="" coords="173,56,241,83"/>
+<area shape="rect" id="node4" href="$group__rtc.html#ga993eee3b02ac43de4add365195986945" title="creates the Date type pointer " alt="" coords="303,56,377,83"/>
+<area shape="rect" id="node5" href="$group__Bitmap.html#ga3506880ffd407c36eb8aaddd2c1606d2" title="Loads a bmp image ; allocates it. " alt="" coords="425,56,512,83"/>
+</map>

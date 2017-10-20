@@ -1,0 +1,6 @@
+<map id="drawBitmapT" name="drawBitmapT">
+<area shape="rect" id="node2" href="$group__graphics.html#ga10e416c59639a7f6b6f9f8f020fdb8d0" title="returns the value set in vg_init " alt="" coords="179,5,251,32"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga1c1b9a9c811575beb06fc355241ef17d" title="returns the value set in vg_init " alt="" coords="179,56,251,83"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga782aabcc7282f096914532435718e70e" title="returns the value set in vg_init " alt="" coords="157,107,274,133"/>
+<area shape="rect" id="node5" href="$group__graphics.html#ga0823d182cf2b320e5f344bdc420a02d0" title="gets the double buffer " alt="" coords="152,157,279,184"/>
+</map>

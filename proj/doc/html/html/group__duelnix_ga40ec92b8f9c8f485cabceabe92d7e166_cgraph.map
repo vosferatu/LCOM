@@ -1,0 +1,21 @@
+<map id="drawDuelnix" name="drawDuelnix">
+<area shape="rect" id="node2" href="$group__graphics.html#ga4953d1edcbbfc7e420c423ded1d5621a" title="makes the buffer black " alt="" coords="171,115,267,142"/>
+<area shape="rect" id="node3" href="$group__MainMenuState.html#ga7484da90570466123ba6b22a8bbb45f3" title="draws bitmaps of the MainMenuState " alt="" coords="148,166,289,192"/>
+<area shape="rect" id="node11" href="$group__PracticeState.html#ga6f9b3905c7e17e9701476f866cd82949" title="draws bitmaps of the PracticeState and other struct elements " alt="" coords="154,318,283,344"/>
+<area shape="rect" id="node19" href="$group__GameState.html#ga2fdfe5b9baa5720b6ecf554b02484458" title="draws bitmaps of the GameState and other struct elements " alt="" coords="161,419,277,446"/>
+<area shape="rect" id="node20" href="$group__Multiplayer.html#ga62508d1a714bdf41eb0d006c9bcfbd62" title="draws bitmaps of the Multiplayer and other struct elements " alt="" coords="162,520,275,547"/>
+<area shape="rect" id="node4" href="$group__Bitmap.html#ga18d05a1c671f4638bc63d37874efb9d4" title="Draws an unscaled, unrotated bitmap at the given position. " alt="" coords="643,306,733,332"/>
+<area shape="rect" id="node9" href="$group__Rectangle.html#gafa634734f37c879ff8392f797dcc09ab" title="draws a border for the rectangle (used for mouse clicks) " alt="" coords="337,64,447,91"/>
+<area shape="rect" id="node5" href="$group__graphics.html#ga10e416c59639a7f6b6f9f8f020fdb8d0" title="returns the value set in vg_init " alt="" coords="813,331,885,358"/>
+<area shape="rect" id="node6" href="$group__graphics.html#ga1c1b9a9c811575beb06fc355241ef17d" title="returns the value set in vg_init " alt="" coords="813,382,885,408"/>
+<area shape="rect" id="node7" href="$group__graphics.html#ga782aabcc7282f096914532435718e70e" title="returns the value set in vg_init " alt="" coords="790,432,907,459"/>
+<area shape="rect" id="node8" href="$group__graphics.html#ga0823d182cf2b320e5f344bdc420a02d0" title="gets the double buffer " alt="" coords="785,280,912,307"/>
+<area shape="rect" id="node10" href="$group__graphics.html#gaebae1310fd9452e9269ab6e3510c0b15" title="paints a pixel " alt="" coords="505,64,580,91"/>
+<area shape="rect" id="node12" href="$group__Bitmap.html#gaa38f17545344b2f97bf82596f2d4b64a" title="Draws an unscaled, unrotated bitmap at the given position without background color &#45;&gt; full rgb GREEN..." alt="" coords="639,419,737,446"/>
+<area shape="rect" id="node13" href="$group__cowboy.html#ga8513fc139f970128e942c12516f6785e" title="Draws the cowboy bitmap according to its state. " alt="" coords="343,520,441,547"/>
+<area shape="rect" id="node14" href="$group__target.html#ga11f7037a8d9e97eab11a743e53e3721a" title="draws the target on screen " alt="" coords="499,267,586,294"/>
+<area shape="rect" id="node15" href="$group__shield.html#gae66c25c5e448f737ffe431b7436fae74" title="draws the shield on the screen " alt="" coords="349,571,435,598"/>
+<area shape="rect" id="node16" href="$group__bullet.html#ga2177677cb7883870f7476db68c2c7b90" title="draws the bullet on the screen " alt="" coords="351,368,433,395"/>
+<area shape="rect" id="node17" href="$group__table.html#ga715cf7fe8d40fc551ec719c33a003bba" title="creates a table according to singleplayer or not " alt="" coords="351,470,433,496"/>
+<area shape="rect" id="node18" href="$group__table.html#ga3ec114d686bb00d1ecfe020e76279b1d" title="draws the score on the screen, at x and y position " alt="" coords="495,470,591,496"/>
+</map>

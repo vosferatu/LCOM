@@ -1,0 +1,8 @@
+<map id="drawMouse" name="drawMouse">
+<area shape="rect" id="node2" href="$group__Bitmap.html#gaa38f17545344b2f97bf82596f2d4b64a" title="Draws an unscaled, unrotated bitmap at the given position without background color &#45;&gt; full rgb GREEN..." alt="" coords="143,81,241,108"/>
+<area shape="rect" id="node7" href="$group__graphics.html#ga1b84764f5785968faddfc1dc3b541597" title="copies the double_buffer to the mouse_buffer " alt="" coords="149,132,235,159"/>
+<area shape="rect" id="node3" href="$group__graphics.html#ga10e416c59639a7f6b6f9f8f020fdb8d0" title="returns the value set in vg_init " alt="" coords="317,5,389,32"/>
+<area shape="rect" id="node4" href="$group__graphics.html#ga1c1b9a9c811575beb06fc355241ef17d" title="returns the value set in vg_init " alt="" coords="317,56,389,83"/>
+<area shape="rect" id="node5" href="$group__graphics.html#ga782aabcc7282f096914532435718e70e" title="returns the value set in vg_init " alt="" coords="294,107,411,133"/>
+<area shape="rect" id="node6" href="$group__graphics.html#ga0823d182cf2b320e5f344bdc420a02d0" title="gets the double buffer " alt="" coords="289,157,416,184"/>
+</map>

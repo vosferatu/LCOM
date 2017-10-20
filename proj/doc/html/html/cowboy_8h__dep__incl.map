@@ -1,0 +1,12 @@
+<map id="cowboy.h" name="cowboy.h">
+<area shape="rect" id="node2" href="$bullet_8h.html" title="bullet.h" alt="" coords="209,80,273,107"/>
+<area shape="rect" id="node4" href="$PracticeState_8h.html" title="PracticeState.h" alt="" coords="5,155,117,181"/>
+<area shape="rect" id="node5" href="$duelnix_8c.html" title="duelnix.c" alt="" coords="161,229,236,256"/>
+<area shape="rect" id="node7" href="$GameState_8h.html" title="GameState.h" alt="" coords="280,155,379,181"/>
+<area shape="rect" id="node9" href="$Multiplayer_8h.html" title="Multiplayer.h" alt="" coords="403,155,499,181"/>
+<area shape="rect" id="node11" href="$cowboy_8c.html" title="cowboy.c" alt="" coords="399,80,478,107"/>
+<area shape="rect" id="node3" href="$bullet_8c.html" title="bullet.c" alt="" coords="192,155,256,181"/>
+<area shape="rect" id="node6" href="$PracticeState_8c.html" title="PracticeState.c" alt="" coords="5,229,117,256"/>
+<area shape="rect" id="node8" href="$GameState_8c.html" title="GameState.c" alt="" coords="280,229,379,256"/>
+<area shape="rect" id="node10" href="$Multiplayer_8c.html" title="Multiplayer.c" alt="" coords="403,229,499,256"/>
+</map>

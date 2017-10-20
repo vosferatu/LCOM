@@ -1,0 +1,4 @@
+<map id="player2Fire" name="player2Fire">
+<area shape="rect" id="node2" href="$group__bullet.html#ga5f9e5e2cbd0e62db526a238a61454dd7" title="Creates a new bullet, for the specified cowboy ; allocates it. " alt="" coords="140,5,219,32"/>
+<area shape="rect" id="node3" href="$group__Bitmap.html#ga3506880ffd407c36eb8aaddd2c1606d2" title="Loads a bmp image ; allocates it. " alt="" coords="267,5,353,32"/>
+</map>

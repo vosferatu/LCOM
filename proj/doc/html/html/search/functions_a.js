@@ -1,0 +1,16 @@
+var searchData=
+[
+  ['newbullet',['newBullet',['../group__bullet.html#ga5f9e5e2cbd0e62db526a238a61454dd7',1,'newBullet(Cowboy *cowboy, int vx, float vy):&#160;bullet.c'],['../group__bullet.html#ga5f9e5e2cbd0e62db526a238a61454dd7',1,'newBullet(Cowboy *cowboy, int vx, float vy):&#160;bullet.c']]],
+  ['newcowboy',['newCowboy',['../group__cowboy.html#ga177a127c9bce4dafe77d4b113aaf82b0',1,'newCowboy(unsigned int opponent):&#160;cowboy.c'],['../group__cowboy.html#ga177a127c9bce4dafe77d4b113aaf82b0',1,'newCowboy(unsigned int opponent):&#160;cowboy.c']]],
+  ['newdate',['newDate',['../group__rtc.html#ga993eee3b02ac43de4add365195986945',1,'newDate():&#160;rtc.c'],['../group__rtc.html#ga993eee3b02ac43de4add365195986945',1,'newDate():&#160;rtc.c']]],
+  ['newgamestate',['newGameState',['../group__GameState.html#ga2d35723c842bd85a0d7f270f549a377c',1,'newGameState():&#160;GameState.c'],['../group__GameState.html#ga2d35723c842bd85a0d7f270f549a377c',1,'newGameState():&#160;GameState.c']]],
+  ['newmainmenustate',['newMainMenuState',['../group__MainMenuState.html#ga62653a9d5143e72c2d162829e1be5471',1,'newMainMenuState():&#160;MainMenuState.c'],['../group__MainMenuState.html#ga62653a9d5143e72c2d162829e1be5471',1,'newMainMenuState():&#160;MainMenuState.c']]],
+  ['newmouse',['newMouse',['../group__mouse.html#gabd64fd476265e0fb0463cc3d82823701',1,'newMouse():&#160;mouse.c'],['../group__mouse.html#gabd64fd476265e0fb0463cc3d82823701',1,'newMouse():&#160;mouse.c']]],
+  ['newmultiplayer',['newMultiplayer',['../group__Multiplayer.html#ga77c478bb431dd77d739aa82eaf5ea7fc',1,'newMultiplayer():&#160;Multiplayer.c'],['../group__Multiplayer.html#ga77c478bb431dd77d739aa82eaf5ea7fc',1,'newMultiplayer():&#160;Multiplayer.c']]],
+  ['newpracticestate',['newPracticeState',['../group__PracticeState.html#gaa48b4e28000e459e3bad71d75d9e9b2a',1,'newPracticeState():&#160;PracticeState.c'],['../group__PracticeState.html#gaa48b4e28000e459e3bad71d75d9e9b2a',1,'newPracticeState():&#160;PracticeState.c']]],
+  ['newrectangle',['newRectangle',['../group__Rectangle.html#ga01c9bc27c7b68eae46b1b6556fd3ceab',1,'newRectangle(int xi, int yi, int xf, int yf):&#160;rectangle.c'],['../group__Rectangle.html#ga01c9bc27c7b68eae46b1b6556fd3ceab',1,'newRectangle(int xi, int yi, int xf, int yf):&#160;rectangle.c']]],
+  ['newshield',['newShield',['../group__shield.html#gac04febed2a12d0829cb7fa244dab7e96',1,'newShield(unsigned int cactus):&#160;shield.c'],['../group__shield.html#gac04febed2a12d0829cb7fa244dab7e96',1,'newShield(unsigned int cactus):&#160;shield.c']]],
+  ['newtable',['newTable',['../group__table.html#ga8d81b68e3e3cc6ff56e03a50bc5e2c0e',1,'newTable(unsigned int opponent):&#160;table.c'],['../group__table.html#ga8d81b68e3e3cc6ff56e03a50bc5e2c0e',1,'newTable(unsigned int opponent):&#160;table.c']]],
+  ['newtarget',['newTarget',['../group__target.html#gac1f289d243d8d20d8588c0f11588415f',1,'newTarget():&#160;target.c'],['../group__target.html#gac1f289d243d8d20d8588c0f11588415f',1,'newTarget():&#160;target.c']]],
+  ['newtimer',['newTimer',['../group__timer.html#ga890ae4aa439460dcbcd414a2bb3e5702',1,'newTimer():&#160;timer.c'],['../group__timer.html#ga890ae4aa439460dcbcd414a2bb3e5702',1,'newTimer():&#160;timer.c']]]
+];

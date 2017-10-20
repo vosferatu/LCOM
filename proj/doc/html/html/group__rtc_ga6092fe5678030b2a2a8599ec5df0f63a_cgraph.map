@@ -1,0 +1,11 @@
+<map id="drawDate" name="drawDate">
+<area shape="rect" id="node2" href="$group__rtc.html#ga3e2f07ac01d26fdb892c5348a8d23804" title="retrieves date pointer " alt="" coords="139,5,207,32"/>
+<area shape="rect" id="node5" href="$group__rtc.html#gac6c6b78524041cc36fc17eb00f3b1ce8" title="draws a date number on the screen " alt="" coords="132,56,215,83"/>
+<area shape="rect" id="node6" href="$group__Bitmap.html#gaa38f17545344b2f97bf82596f2d4b64a" title="Draws an unscaled, unrotated bitmap at the given position without background color &#45;&gt; full rgb GREEN..." alt="" coords="263,107,361,133"/>
+<area shape="rect" id="node3" href="$group__rtc.html#ga993eee3b02ac43de4add365195986945" title="creates the Date type pointer " alt="" coords="275,5,349,32"/>
+<area shape="rect" id="node4" href="$group__Bitmap.html#ga3506880ffd407c36eb8aaddd2c1606d2" title="Loads a bmp image ; allocates it. " alt="" coords="429,5,516,32"/>
+<area shape="rect" id="node7" href="$group__graphics.html#ga10e416c59639a7f6b6f9f8f020fdb8d0" title="returns the value set in vg_init " alt="" coords="437,56,509,83"/>
+<area shape="rect" id="node8" href="$group__graphics.html#ga1c1b9a9c811575beb06fc355241ef17d" title="returns the value set in vg_init " alt="" coords="437,107,509,133"/>
+<area shape="rect" id="node9" href="$group__graphics.html#ga782aabcc7282f096914532435718e70e" title="returns the value set in vg_init " alt="" coords="414,157,531,184"/>
+<area shape="rect" id="node10" href="$group__graphics.html#ga0823d182cf2b320e5f344bdc420a02d0" title="gets the double buffer " alt="" coords="409,208,536,235"/>
+</map>

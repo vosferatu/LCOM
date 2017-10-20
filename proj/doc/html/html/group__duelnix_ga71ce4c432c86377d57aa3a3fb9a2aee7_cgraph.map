@@ -1,0 +1,13 @@
+<map id="deleteCurrentState" name="deleteCurrentState">
+<area shape="rect" id="node2" href="$group__MainMenuState.html#ga239427f0b6e850858a9b32b593f76d51" title="deletes MainMenustate passed and frees from memory " alt="" coords="184,84,332,111"/>
+<area shape="rect" id="node5" href="$group__PracticeState.html#ga3e5ea8aea7e4c7e63225868370fba125" title="deletes Practicestate passed and frees from memory " alt="" coords="190,185,326,212"/>
+<area shape="rect" id="node11" href="$group__GameState.html#ga9bb21c9548ad7822e7db855481317c05" title="deletes Gamestate passed and frees from memory " alt="" coords="197,236,319,263"/>
+<area shape="rect" id="node12" href="$group__Multiplayer.html#ga23f864b29663943303e76554de892fe6" title="deletes Multiplayer state passed and frees from memory " alt="" coords="198,287,318,313"/>
+<area shape="rect" id="node3" href="$group__Bitmap.html#ga08c1d4f4fff81df260d979ea8fc1aa61" title="Destroys the given bitmap, freeing all resources used by it. " alt="" coords="544,236,643,263"/>
+<area shape="rect" id="node4" href="$group__Rectangle.html#ga7be6ea5b0bfeab0b59392cd608a2894d" title="frees a rectangle from memory " alt="" coords="380,84,496,111"/>
+<area shape="rect" id="node6" href="$group__cowboy.html#ga73bd6644bf157309f9628e2de4c809d0" title="Frees from memory. " alt="" coords="385,185,491,212"/>
+<area shape="rect" id="node7" href="$group__target.html#gac1b51cb01a983b9475cd0287cc8f4559" title="frees a target from memory " alt="" coords="391,33,485,60"/>
+<area shape="rect" id="node8" href="$group__shield.html#ga9fe5062a38335e47d42952666919fa25" title="frees the shield from memory " alt="" coords="391,236,485,263"/>
+<area shape="rect" id="node9" href="$group__table.html#ga73a6d0b8f4fad66e403ef6591d1594be" title="frees a table from memory " alt="" coords="393,287,483,313"/>
+<area shape="rect" id="node10" href="$group__bullet.html#gabd3cc2ef59d1d696ff0a5e53b5969114" title="frees the memory used by bullet " alt="" coords="393,337,483,364"/>
+</map>

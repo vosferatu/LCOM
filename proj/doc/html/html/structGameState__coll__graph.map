@@ -1,0 +1,9 @@
+<map id="GameState" name="GameState">
+<area shape="rect" id="node2" href="$structShield.html" title="Shield" alt="" coords="106,339,164,366"/>
+<area shape="rect" id="node3" href="$structBitmap.html" title="Represents a Bitmap. " alt="" coords="181,95,244,121"/>
+<area shape="rect" id="node6" href="$structTable.html" title="Table" alt="" coords="189,339,244,366"/>
+<area shape="rect" id="node7" href="$structBullet.html" title="Bullet" alt="" coords="270,339,325,366"/>
+<area shape="rect" id="node8" href="$structCowboy.html" title="Cowboy" alt="" coords="358,339,429,366"/>
+<area shape="rect" id="node4" href="$structBitmapInfoHeader.html" title="BitmapInfoHeader" alt="" coords="149,5,276,32"/>
+<area shape="rect" id="node5" href="$structRectangle.html" title="Rectangle" alt="" coords="480,339,561,366"/>
+</map>
